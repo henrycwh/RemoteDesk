@@ -68,7 +68,7 @@ python client.py
 ```
 
 ## 🤝 Collaboration & GitHub Posting
-This project was jointly developed by Wei-Han, Chen and Feng-Hao, Yeh.
+This project was jointly developed by Wei-Han Chen and Feng-Hao Yeh.
 After mutual discussion and agreement, we have both posted this project on our respective GitHub repositories.
 
 ## 📜 License
