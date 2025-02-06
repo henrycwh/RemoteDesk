@@ -56,13 +56,13 @@ This project was developed as part of a **learning-based implementation**.
 1. Install **Python 3.8+**  
 2. Install dependencies:  
    ```sh
-   pip install -r requirements.txt
+   pip install -r requirements.txt```
 3.Run the server on the target machine:
    ```sh
-   python server.py
+   python server.py```
 4.Run the client and enter the remote machine’s ID to connect:
    ```sh
-   python client.py
+   python client.py```
 
 ## 🤝 Collaboration & GitHub Posting
 This project was jointly developed by Wei-Han, Chen and Feng-Hao, Yeh.
