@@ -1,4 +1,4 @@
-# 📌 ScreenStealer (Temporary Name)
+# 📌 Remote Desk
 *A Custom Implementation of Remote Screen Sharing & Control*
 
 ## 📖 Introduction
